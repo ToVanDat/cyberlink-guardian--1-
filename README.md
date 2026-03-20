@@ -37,3 +37,17 @@ cd cyberlink-guardian
 npm install
 npm run dev
 
+🔐 Environment Variables
+
+Create a .env.local file:
+
+GEMINI_API_KEY=your_api_key_here
+💡 Technical Highlights
+
+Implemented structured AI responses using JSON Schema
+
+Applied prompt engineering for phishing detection
+
+Managed scan history using LocalStorage
+
+Built responsive UI with Tailwind CSS
