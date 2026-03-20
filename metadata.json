@@ -1,0 +1,5 @@
+{
+  "name": "CyberLink Guardian",
+  "description": "An application that allows users to enter a link to check if it's safe to visit, helping to avoid viruses and phishing scams by leveraging AI analysis.",
+  "requestFramePermissions": []
+}
